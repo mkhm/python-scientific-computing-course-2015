@@ -16,4 +16,4 @@ This repository contains some parts of source codes of "[Scientific Computing wi
     - Manipulating numerical data with NumPy
     - Plotting with Matplotlib in details
     - Data Analysis with Pandas
-    - Introduction to HPC (PyPy, NumExpr, multiprocessing, Numba)
+    - Introduction to HPC
