@@ -3,7 +3,7 @@ Python Scientific Computing Course
 
 This repository contains some parts of source codes of "Scientific Computing with Python: An Introduction to Data Analysis & High Performance Computing" course taught by me for graduate students held at [Department of Physics](http://physics.iut.ac.ir/) of [Isfahan University of Technology](http://www.iut.ac.ir/en/), Isfahan <a href="http://en.wikipedia.org/wiki/Isfahan"><sup>wiki</sup></a>, Iran <a href="http://en.wikipedia.org/wiki/Iran"><sup>wiki</sup></a> in 2015.
 
-##Topics:
+## Topics:
 - **Basics**
     - Introduction to Programming
     - Introducing IDE: Wing IDE, PyScripter, Ninja IDE, Spider, PyCharm
